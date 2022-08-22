@@ -1,0 +1,2 @@
+ID, File_name, ROI, N_Objects, N_Excluded, Cluster1, Cluster2, Cluster3, Comment, Full_Path, ClusterDetail
+0,"whitealot25.png",1,8,0,0,0,0,"2022-04-24 [11:15:52 AM]: no comment","C:\Users\Louis\Documents\GitHub\cell-counter\whitealot25.png","{  }"
